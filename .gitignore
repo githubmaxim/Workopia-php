@@ -1,0 +1,8 @@
+/vendor
+/node_modules
+/config/db.php
+.env
+.vscode
+
+#нужно будет если использовать Mac Os
+#.DS_Store
